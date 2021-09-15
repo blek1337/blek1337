@@ -1,5 +1,4 @@
 # Hello there!
-- **My name is Ungku Muhammad Tarmizi Al Thayyib a.k.a black**
 - **I was born on 19 August 1997**
 - **I love programming!**
 - **I am founder of N4X SECURITY**
