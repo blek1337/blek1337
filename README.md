@@ -1,4 +1,6 @@
 # Hello there!
+- **My name is Tarmizi Al Thayyib**
+- **I am now 24 years old**
 - **I was born on 19 August 1997**
 - **I love programming!**
 - **I am founder of N4X SECURITY**
